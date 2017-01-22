@@ -1,0 +1,31 @@
+#presentation {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: #555;
+}
+
+#random {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.responseEntry {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #555;
+}
+
+.customA:hover {
+  text-decoration: none;
+}
+
+.entryTitle {
+  color: #555;
+  white-space: normal;
+}
+
+.entryDetails {
+  color: #555;
+  font-size: 11.5px;
+  word-wrap: break-word;
+}
